@@ -3,7 +3,7 @@
     "id": "悟空",
     "name": "悟空",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10009.png",
-    "priority": "T0",
+    "priority": "T2",
     "positions": [
       "上路",
       "打野"
@@ -34,7 +34,7 @@
     "id": "魔鬥凱薩",
     "name": "魔鬥凱薩",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10035.png",
-    "priority": "T1",
+    "priority": "T2",
     "positions": [
       "上路",
       "中路",
@@ -45,7 +45,7 @@
     "id": "藍寶",
     "name": "藍寶",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10140.png",
-    "priority": "T0",
+    "priority": "T2",
     "positions": [
       "上路",
       "中路"
@@ -55,7 +55,7 @@
     "id": "嘉文四世",
     "name": "嘉文四世",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10056.png",
-    "priority": "T0",
+    "priority": "T2",
     "positions": [
       "上路",
       "打野"
@@ -76,7 +76,7 @@
     "id": "那地魯斯",
     "name": "那地魯斯",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10132.png",
-    "priority": "T0",
+    "priority": "T2",
     "positions": [
       "上路",
       "打野",
@@ -118,7 +118,7 @@
     "id": "厄爾",
     "name": "厄爾",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10136.png",
-    "priority": "T0",
+    "priority": "T1",
     "positions": [
       "上路",
       "輔助"
@@ -128,7 +128,7 @@
     "id": "佛利貝爾",
     "name": "佛利貝爾",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10058.png",
-    "priority": "T2",
+    "priority": "T3",
     "positions": [
       "上路",
       "打野"
@@ -138,7 +138,7 @@
     "id": "賽特",
     "name": "賽特",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10068.png",
-    "priority": "T2",
+    "priority": "T4",
     "positions": [
       "上路",
       "輔助"
@@ -158,7 +158,7 @@
     "id": "犽凝",
     "name": "犽凝",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10069.png",
-    "priority": "T3",
+    "priority": "T4",
     "positions": [
       "上路",
       "打野",
@@ -169,7 +169,7 @@
     "id": "賈克斯",
     "name": "賈克斯",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10040.png",
-    "priority": "T0",
+    "priority": "T1",
     "positions": [
       "上路",
       "中路"
@@ -190,7 +190,7 @@
     "id": "關",
     "name": "關",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10054.png",
-    "priority": "T0",
+    "priority": "T2",
     "positions": [
       "上路",
       "打野",
@@ -201,7 +201,7 @@
     "id": "杰西",
     "name": "杰西",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10101.png",
-    "priority": "T0",
+    "priority": "T2",
     "positions": [
       "上路",
       "打野",
@@ -243,7 +243,7 @@
     "id": "古拉格斯",
     "name": "古拉格斯",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10089.png",
-    "priority": "T0",
+    "priority": "T1",
     "positions": [
       "上路",
       "打野"
@@ -289,7 +289,7 @@
     "id": "維爾戈",
     "name": "維爾戈",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10057.png",
-    "priority": "T2",
+    "priority": "T4",
     "positions": [
       "打野"
     ]
@@ -316,7 +316,7 @@
     "id": "黛安娜",
     "name": "黛安娜",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10013.png",
-    "priority": "T2",
+    "priority": "T4",
     "positions": [
       "打野"
     ]
@@ -334,7 +334,7 @@
     "id": "夜曲",
     "name": "夜曲",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10151.png",
-    "priority": "T1",
+    "priority": "T2",
     "positions": [
       "打野"
     ]
@@ -372,7 +372,7 @@
     "id": "阿璃",
     "name": "阿璃",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10038.png",
-    "priority": "T3",
+    "priority": "T4",
     "positions": [
       "中路"
     ]
@@ -381,7 +381,7 @@
     "id": "斯溫",
     "name": "斯溫",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10126.png",
-    "priority": "T2",
+    "priority": "T3",
     "positions": [
       "中路",
       "射手"
@@ -391,7 +391,7 @@
     "id": "麗珊卓",
     "name": "麗珊卓",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10109.png",
-    "priority": "T4",
+    "priority": "T5",
     "positions": [
       "中路"
     ]
@@ -400,7 +400,7 @@
     "id": "星朵拉",
     "name": "星朵拉",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10024.png",
-    "priority": "T4",
+    "priority": "T5",
     "positions": [
       "中路"
     ]
@@ -409,7 +409,7 @@
     "id": "希格斯",
     "name": "希格斯",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10087.png",
-    "priority": "T1",
+    "priority": "T0",
     "positions": [
       "射手"
     ]
@@ -418,7 +418,7 @@
     "id": "佛拉迪米爾",
     "name": "佛拉迪米爾",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10090.png",
-    "priority": "T3",
+    "priority": "T5",
     "positions": [
       "中路",
       "射手"
@@ -428,7 +428,7 @@
     "id": "歐羅拉",
     "name": "歐羅拉",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10085.png",
-    "priority": "T3",
+    "priority": "T4",
     "positions": [
       "中路"
     ]
@@ -437,7 +437,7 @@
     "id": "加里歐",
     "name": "加里歐",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10099.png",
-    "priority": "T2",
+    "priority": "T3",
     "positions": [
       "中路",
       "輔助"
@@ -447,7 +447,7 @@
     "id": "雷茲",
     "name": "雷茲",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10137.png",
-    "priority": "T2",
+    "priority": "T3",
     "positions": [
       "上路",
       "中路"
@@ -512,7 +512,7 @@
     "id": "路西恩",
     "name": "路西恩",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10042.png",
-    "priority": "T0",
+    "priority": "T1",
     "positions": [
       "射手"
     ]
@@ -521,7 +521,7 @@
     "id": "剎雅",
     "name": "剎雅",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10051.png",
-    "priority": "T0",
+    "priority": "T2",
     "positions": [
       "射手"
     ]
@@ -530,7 +530,7 @@
     "id": "希維爾",
     "name": "希維爾",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10107.png",
-    "priority": "T3",
+    "priority": "T4",
     "positions": [
       "射手"
     ]
@@ -539,7 +539,7 @@
     "id": "庫奇",
     "name": "庫奇",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10060.png",
-    "priority": "T0",
+    "priority": "T1",
     "positions": [
       "射手"
     ]
@@ -557,7 +557,7 @@
     "id": "布郎母",
     "name": "布郎母",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10021.png",
-    "priority": "T0",
+    "priority": "T1",
     "positions": [
       "輔助"
     ]
@@ -575,7 +575,7 @@
     "id": "娜米",
     "name": "娜米",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10091.png",
-    "priority": "T2",
+    "priority": "T3",
     "positions": [
       "輔助"
     ]
@@ -584,7 +584,7 @@
     "id": "雷歐娜",
     "name": "雷歐娜",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10044.png",
-    "priority": "T1",
+    "priority": "T2",
     "positions": [
       "輔助"
     ]
@@ -593,7 +593,7 @@
     "id": "珊娜",
     "name": "珊娜",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10123.png",
-    "priority": "T2",
+    "priority": "T4",
     "positions": [
       "輔助"
     ]
@@ -611,7 +611,7 @@
     "id": "茂凱",
     "name": "茂凱",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10074.png",
-    "priority": "T2",
+    "priority": "T4",
     "positions": [
       "輔助"
     ]
@@ -620,7 +620,7 @@
     "id": "米里歐",
     "name": "米里歐",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10108.png",
-    "priority": "T2",
+    "priority": "T3",
     "positions": [
       "輔助"
     ]
@@ -656,7 +656,7 @@
     "id": "瑟拉芬",
     "name": "瑟拉芬",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10034.png",
-    "priority": "T3",
+    "priority": "T4",
     "positions": [
       "輔助"
     ]
@@ -665,7 +665,7 @@
     "id": "露璐",
     "name": "露璐",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10048.png",
-    "priority": "T3",
+    "priority": "T4",
     "positions": [
       "輔助"
     ]
@@ -692,7 +692,7 @@
     "id": "悠咪",
     "name": "悠咪",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10020.png",
-    "priority": "T3",
+    "priority": "T4",
     "positions": [
       "輔助"
     ]
@@ -719,7 +719,7 @@
     "id": "蓋倫",
     "name": "蓋倫",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10001.png",
-    "priority": "T1",
+    "priority": "T3",
     "positions": [
       "上路"
     ]
@@ -728,7 +728,7 @@
     "id": "蒙多",
     "name": "蒙多",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10062.png",
-    "priority": "T3",
+    "priority": "T4",
     "positions": [
       "上路",
       "打野"
@@ -756,7 +756,7 @@
     "id": "凱莎",
     "name": "凱莎",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10026.png",
-    "priority": "T3",
+    "priority": "T5",
     "positions": [
       "射手"
     ]
@@ -765,7 +765,7 @@
     "id": "拉姆斯",
     "name": "拉姆斯",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10064.png",
-    "priority": "T4",
+    "priority": "T3",
     "positions": [
       "打野"
     ]
@@ -792,7 +792,7 @@
     "id": "達瑞文",
     "name": "達瑞文",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10077.png",
-    "priority": "T3",
+    "priority": "T5",
     "positions": [
       "射手"
     ]
@@ -801,7 +801,7 @@
     "id": "寇格魔",
     "name": "寇格魔",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10110.png",
-    "priority": "T2",
+    "priority": "T4",
     "positions": [
       "射手"
     ]
@@ -810,7 +810,7 @@
     "id": "賽恩",
     "name": "賽恩",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10125.png",
-    "priority": "T2",
+    "priority": "T3",
     "positions": [
       "上路"
     ]
@@ -819,7 +819,7 @@
     "id": "汎",
     "name": "汎",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10010.png",
-    "priority": "T4",
+    "priority": "T5",
     "positions": [
       "射手"
     ]
