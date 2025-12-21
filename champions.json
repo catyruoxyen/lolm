@@ -656,7 +656,7 @@
     "id": "瑟拉芬",
     "name": "瑟拉芬",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10034.png",
-    "priority": "T4",
+    "priority": "T3",
     "positions": [
       "輔助"
     ]
@@ -820,6 +820,15 @@
     "name": "汎",
     "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10010.png",
     "priority": "T5",
+    "positions": [
+      "射手"
+    ]
+  },
+  {
+    "id": "婕莉",
+    "name": "婕莉",
+    "image": "https://game.gtimg.cn/images/lgamem/act/lrlib/img/HeadIcon/H_S_10067.png",
+    "priority": "T3",
     "positions": [
       "射手"
     ]
